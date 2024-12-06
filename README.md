@@ -7,7 +7,7 @@ This repo contains solutions to the [Advent of Code 2024](https://adventofcode.c
 
 | Week 1 | Week 2 | Week 3 | Week 4 |
 | - | - | - | - |
-| [Day 1 \*\*](01-historian-hysteria) | | | |
+| [Day 1 \*\*](01-historian-hysteria) | [Day 5 \*\*](05-print-queue) | | |
 | [Day 2 \*\*](02-red-nosed-reports) | | | |
 | [Day 3 \*\*](03-mull-it-over) | | | |
 | [Day 4 \*\*](04-ceres-search) | | | |
