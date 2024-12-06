@@ -10,6 +10,7 @@ This repo contains solutions to the [Advent of Code 2024](https://adventofcode.c
 | [Day 1 \*\*](01-historian-hysteria) | | | |
 | [Day 2 \*\*](02-red-nosed-reports) | | | |
 | [Day 3 \*\*](03-mull-it-over) | | | |
+| [Day 4 \*\*](04-ceres-search) | | | |
 
 **Christmas day** - Day 25
 
